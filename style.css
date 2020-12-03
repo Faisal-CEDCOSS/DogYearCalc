@@ -1,0 +1,68 @@
+
+.logo
+{   
+  text-align: center;
+  margin-left: 19.5%;
+  margin-right: 20%;
+  margin-bottom: 1%;
+}
+
+.text_input
+{
+  border-radius:10px;
+  background-color: white;   
+  text-align: center;
+  padding: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.div_input
+{
+	padding: 2%;
+}
+
+#image2
+{
+  margin-top: 1%;
+  margin-left: -350px;
+  border-radius: 2%;
+  height:90%;
+  width:80%;
+
+}
+
+#display
+{
+  font-size: 30px;
+  font-weight: 700; 
+}
+
+#button
+{
+  background-color: #c94a58;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#hy
+{
+  width:10%;
+}
+
+#hm
+{
+  width:10%;
+}
+
+#gif
+{
+  margin-right: -600px; 
+  width: 250px;
+}
